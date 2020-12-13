@@ -1,0 +1,17 @@
+{
+    "name": "projeto/doctrine",
+    "authors": [
+        {
+            "name": "Marco-25",
+            "email": "marco.antonio-25@outlook.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Projeto\\Pratico\\": "src/"
+        }
+    },
+    "require": {
+        "doctrine/orm": "^2.6"
+    }
+}
